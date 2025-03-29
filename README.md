@@ -79,7 +79,7 @@ Have a `Array.prototype.equals` method, they might look like:
 
 __How are other langugaes handling this?__
 
-__Ruby:__ `array1.to_set == array2.to_set`
+__Ruby:__ `array1 == array2`
 
 __Python:__ `[1,[2,3]] == [1,[2,3]]`
 
